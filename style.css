@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+nav{
+    text-align: center;
+}
+#div1{
+    display: block;
+    float: left;
+    padding-right: 10px;
+    padding: auto;
+    margin: auto;
+    border-style: solid;
+    margin-top: 10px;
+    margin-left: 35px;
+    background-color: rgba(235, 235, 162, 0.3);
+}
+#div2{
+    display: block;
+    padding: 50px 50px 10px 50px;
+    float: right;
+    margin-right: 35px;
+    margin: 10px;
+    border-style: solid;
+    background-color: rgba(235, 235, 162, 0.3);
+
+}
+#img1{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img2{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img3{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img4{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img5{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img6{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img7{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img8{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img9{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
+
+#img10{
+    display: block;
+    float: center;
+    padding: auto;
+    margin: auto;
+}
